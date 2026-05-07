@@ -2,7 +2,7 @@
 
 **Co-Founder & CEO · [LANDMARQ](https://landmarq.io)**  
 AI/GIS platform for community opposition risk in infrastructure siting.  
-MSc Sustainability Transitions · University of Oxford
+MSc Sustainable Urban Development · Sustainability Transitions · University of Oxford
 
 ---
 
