@@ -2,7 +2,7 @@
 
 **Co-Founder & CEO · [LANDMARQ](https://landmarq.io)**  
 AI/GIS platform for community opposition risk in infrastructure siting.  
-MSc Sustainable Urban Development · University of Oxford · Sustainability Transitions 
+MSc Sustainable Urban Development · Sustainability Transitions · University of Oxford
 
 ---
 
@@ -16,8 +16,6 @@ and a dollar-denominated cost estimate.
 
 The research base, scoring methodology, and public data analysis are 
 documented in the pinned repositories below.
-
-Also designed and built landmarq.io from scratch. It's the company's public-facing platform, including custom code implementation.
 
 ---
 
@@ -33,12 +31,24 @@ LANDMARQ is the tool I wished existed when I was doing that research.
 
 ---
 
+## What I've shipped
+
+- 🌐 **[landmarq.io](https://landmarq.io)** — Designed and built from scratch. 
+  Front-end platform for LANDMARQ's community opposition risk scoring tool, 
+  including custom code implementation.
+
+- 🎮 **[icyterminal.com](https://icyterminal.com)** — 
+  Bilingual Mandarin-English finance lexicon and game. Built from scratch 
+  for a specific user — an aspiring hedge fund manager navigating 
+  Southeast Asian markets. *Personal project, independent of LANDMARQ.*
+
+---
+
 ## Outside of LANDMARQ
 
-I build things that solve real problems for real people. Most recently: 
-a bilingual Mandarin-English finance lexicon for aspiring investors 
-navigating Southeast Asian markets — built from scratch as a working tool, 
-**not a portfolio piece**.
+I'm drawn to problems that sit at the edge of policy, data, and human 
+behavior — places where the technical answer exists but the social and 
+political answer doesn't yet.
 
 ---
 
