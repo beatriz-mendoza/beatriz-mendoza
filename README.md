@@ -11,7 +11,7 @@ MSc Sustainable Urban Development · University of Oxford · Sustainability Tran
 LANDMARQ helps infrastructure investors and developers quantify community 
 opposition risk before capital is committed. The platform combines GIS, 
 NLP, and a Bayesian scoring model trained on labeled siting outcomes to 
-produce a parcel-level risk score — expressed as a probability of opposition 
+produce a parcel-level risk score which is expressed as a probability of opposition 
 and a dollar-denominated cost estimate.
 
 The research base, scoring methodology, and public data analysis are 
