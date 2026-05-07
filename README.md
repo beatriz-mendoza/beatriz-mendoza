@@ -17,6 +17,8 @@ and a dollar-denominated cost estimate.
 The research base, scoring methodology, and public data analysis are 
 documented in the pinned repositories below.
 
+Also designed and built landmarq.io from scratch. It's the company's public-facing platform, including custom code implementation.
+
 ---
 
 ## Background
